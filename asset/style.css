@@ -1,0 +1,33 @@
+body,html{
+    height:100%;
+    margin:0;
+    padding:0px;
+    background-color: black;
+    
+}
+
+#particles-js{
+    background-color: black;
+    height:100%;
+    
+}
+
+
+.background{
+    position: absolute;
+    display: block;
+    top:0px;
+    left:0px;
+    z-index:0;
+    height:100%
+}
+h1{
+    color:white;
+    position: absolute;
+    top:50%;
+    text-align: center;
+    font-size: 25px;
+    right:0;
+    left:0;
+    
+}
