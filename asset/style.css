@@ -1,16 +1,17 @@
 body,html{
     height:100%;
+    width:100%;
     margin:0;
     padding:0px;
     background-color: black;
-    width:100%
+    
     
 }
 
 #particles-js{
     background-color: black;
     height:100%;
-    width:100%
+    width:100%;
     
 }
 
